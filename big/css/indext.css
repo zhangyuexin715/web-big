@@ -1,0 +1,304 @@
+/*
+* @Author: 张月馨
+* @Date:   2020-06-12 16:58:47
+* @Last Modified by:   张月馨
+* @Last Modified time: 2020-06-13 21:36:59
+*/
+
+body>div{
+	width: 1519.2px;
+	margin: 0 auto;
+}
+.header{
+	width: 1519.2px;
+	height:98px;
+	position: relative;
+}
+.header ul{
+	float: left;
+	width: 700px;
+	
+}
+.header ul li{
+	width: 140px;
+	height: 98px;
+	line-height: 98px;
+	text-align: center;
+	display: inline-block;
+	float: left;
+
+}
+.logo{
+	float: left;
+	margin-left: 40px;
+}
+.pre{
+	float: left;
+	width:60px;
+	height:12px;
+	margin-left: 31px;
+	margin-top: 44px;
+	font-size:14px;
+	font-family:Microsoft YaHei;
+	font-weight:400;
+	color:rgba(102,102,102,1);
+}
+.form{
+	float: left;}
+.search{
+	float: left;
+	width:70px;
+	height:15px;
+	font-size:14px;
+	font-family:Microsoft YaHei;	
+	font-weight:400;
+	color:rgba(191,191,191,1);
+	line-height:31px;
+	padding-top: 13px;
+	padding-bottom: 12px;
+	padding-left: 19px;
+	padding-right: 100px;
+	margin-left: 80px;
+	margin-top: 31px;
+	border: 1px solid rgba(102,205,170,1); 
+}
+.submit{
+	float: left;
+	width:52px;
+	height:42px;
+	margin-top: 31px;
+	border:1px solid rgba(102,205,170,1);
+	background:rgba(102,205,170,1) url(../image/fa-search.png) no-repeat center center;
+
+}
+.banner{
+	width: 1519.2px;
+	margin-left: 50px;
+}
+.one{
+	width: 1519.2px;
+	height: 460px;
+	margin-left: 40px;
+	position: relative;
+
+
+}
+.one .title{
+	height: 77px;
+	
+}
+.one .title div{
+	padding-top: 37px;
+	padding-left:40px;
+	font-size:30px;
+	font-family:Microsoft YaHei;
+	font-weight:800;
+	color:red;
+	float: left;
+}
+.one .title a{
+	width:48px;
+	height:13px;
+	padding-top: 41px;
+	padding-right: 40px;
+	font-size:12px;
+	font-family:Microsoft YaHei;
+	font-weight:400;
+	color:rgba(165,165,165,1);
+	float: left;
+}
+
+.one .pic div{
+	width: 236px;
+	height: 360px;
+	background:rgba(255,255,255,1);
+	box-shadow:0px 2px 5px 0px rgba(118,118,118,0.5);
+	margin-left: 40px;
+	margin-right: 80px;
+	margin-top: 15px;
+	float: left;
+	box-shadow:0px 2px 5px 0px rgba(118,118,118,0.5)
+	
+}
+.one .pic div img{
+	height: 360px;
+}
+.one .pic div p{
+	width: 236px;
+	position: absolute;
+	bottom: 7px;
+}
+
+.two{
+	width: 1519.2px;
+	height: 500px;
+	position: relative;
+	background-color: pink;
+
+}
+.two .title{
+	height: 77px;
+	
+}
+.two .title div{
+	padding-top: 37px;
+	padding-left:40px;
+	font-size:30px;
+	font-family:Microsoft YaHei;
+	font-weight:800;
+	color:red;
+	float: left;
+}
+.two .title a{
+	width:48px;
+	height:13px;
+	padding-top: 41px;
+	padding-right: 40px;
+	font-size:12px;
+	font-family:Microsoft YaHei;
+	font-weight:400;
+	color:rgba(165,165,165,1);
+	float: left;
+}
+.two .pic div{
+	font-size: 28px;
+	color: blue;
+	text-align: center;
+	border: 2px dashed blue;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	box-shadow:0px 2px 5px 0px rgba(118,118,118,0.5)
+}
+.two .pic img{
+	height: 360px;
+	margin-left: 40px;
+}
+.three{
+	width: 1519.2px;
+}
+.new{
+	width: 600px;
+	padding-bottom: 15px;
+	margin: 0;
+	margin-left:80px;
+	float: left;
+
+}
+.new .title{
+	height: 77px;
+	
+}
+.new .title div{
+	padding-top: 37px;
+	padding-left:40px;
+	font-size:25px;
+	font-family:Microsoft YaHei;
+	font-weight:600;
+	color:red;
+	float: left;
+}
+.new .title a{
+	width:48px;
+	height:13px;
+	padding-top: 41px;
+	padding-right: 40px;
+	font-size:12px;
+	font-family:Microsoft YaHei;
+	font-weight:400;
+	color:rgba(165,165,165,1);
+	float: right;
+}
+
+.new a{
+	display: block;
+	text-align: right;
+}
+.deng{
+	width: 600px;
+	height: 160px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	margin-right: 100px;
+	background-color: rgba(147, 112, 219, 0.5);
+	float: right;
+	position: relative;
+}
+.deng caption{
+	font-size: 10px;
+	color: purple;
+}
+.deng table{
+	text-align: center;
+	margin: 40px 188px;
+}
+.deng .an{
+	width: 100px;
+	background:rgba(102,205,170,1);
+	margin-top: 10px;
+}
+.peo{
+	width: 1519.2px;
+	height: 500px;
+	margin-left: 80px;
+	margin-right: 80px;
+	position: relative;
+
+
+}
+.peo .title{
+	height: 77px;
+	
+}
+.peo .pic{
+	position: relative;
+	/* width: 400px; */
+	height: 400px;
+}
+.peo .title div{
+	padding-top: 37px;
+	padding-left:40px;
+	font-size:30px;
+	font-family:Microsoft YaHei;
+	font-weight:800;
+	color:red;
+	float: left;
+}
+.peo .title a{
+	width:48px;
+	height:13px;
+	padding-top: 41px;
+	padding-bottom: 23px;
+	padding-right: 100px;
+	font-size:12px;
+	font-family:Microsoft YaHei;
+	font-weight:400;
+	color:rgba(165,165,165,1);
+	float: left;
+}
+
+.peo .pic>div{
+	float: left;
+	margin-bottom: 8px;
+	margin-right: 8px;
+	height: 400px;
+	position: relative;
+}
+.peo .pic div div{
+	width: 400px;
+	height: 40px;
+	color: white;
+	line-height: 40px;
+	position: absolute;
+	bottom: 0;
+	text-align: center;
+	background-color: rgba(105, 105, 105, 0.5)
+}
+.foot{
+	width: 1519.2px;
+	color: #fff;
+	background-color: #000;
+	text-align: center;
+	height: 120px;
+	line-height: 120px;
+	float: left;
+}
